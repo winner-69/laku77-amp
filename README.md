@@ -1,2 +1,2 @@
-# laku77-amp
+# winner60-amp
 AMP version of Laku77
